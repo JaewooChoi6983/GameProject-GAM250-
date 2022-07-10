@@ -1,0 +1,4 @@
+../images/boss.png
+FrameSize 6400 525
+NumFrames 8
+Anim ../anm/boss_spawn.anm
